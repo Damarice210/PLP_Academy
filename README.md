@@ -1,3 +1,3 @@
 # PLP_Academy
 Evening Session
-I love coffee
+I love sipping coffee while coding
